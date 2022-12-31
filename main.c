@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <omp.h>
-#define THREAD_COUNT 8
+#define THREAD_COUNT 4
 
 
 static int N = 8;
