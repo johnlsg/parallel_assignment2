@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672476332 source:d:\parallel_labs\group_assignment2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<omp.h>
+
